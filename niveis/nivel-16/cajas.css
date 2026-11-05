@@ -1,0 +1,19 @@
+.caja{
+    height: 200px;
+    width: 200px;
+    background-color: green;
+    font-size: 50pt;
+    border: 8px solid purple;
+    display: flex;
+}
+.caja_amarilla{
+    background-color: yellow;
+    font-size: 50pt;
+    align-self: flex-end;
+}
+.cajas {
+    border: 8px solid forestgreen;
+    display: flex;
+    align-items: flex-start;
+    height: 900px;   
+}
